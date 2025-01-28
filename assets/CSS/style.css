@@ -1,0 +1,20 @@
+span {
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    background-color: rgb(98, 212, 17);
+  }
+  button {
+    color: rgb(18, 237, 226);
+    background-color: rgb(109, 0, 139);
+  }
+  p {
+    color: #19d496;
+    background-color: #000000;
+  }
+  * {
+    background-color: rgb(210, 30, 75);
+  }
+  h1 {
+    color: rgb(189, 222, 0);
+  }
+  

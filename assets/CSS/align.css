@@ -1,0 +1,27 @@
+h1{
+    /* text-align: start; text kiri */
+    /* text-align: end; text di kanan  */
+    /* text-align: center; text di tengah */
+    text-align: center;
+
+    font-weight: 800;
+
+    text-decoration:wavy green underline;
+
+    font-size: 250%;
+}
+p {
+    /* text-align: justify; rata kiri kanan */
+    text-align: justify;
+    font-weight: normal;
+    
+    /* mengubah tinggi font dalama sebuah paragraf atau memberikan jarak antar baris kalimat */
+    line-height: 1.5;
+
+    /* mengatur jarak antar kalimat di dalam sebuah paragraf */
+    /* letter-spacing: 1px; */
+}
+a {
+    /* mengatur garis bawah pada link */
+    text-decoration: none;
+}
