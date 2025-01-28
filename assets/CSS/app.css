@@ -13,5 +13,9 @@ span {
 }
 /* penggunakan selector element berdasarkan ID */
 #menu1 {
-    color: aqua;
+    color: rgb(255, 196, 0);
+}
+/* Penggunaan selector ELement berdasarkan Class */
+.mark {
+    background-color: rgb(94, 150, 51);
 }
