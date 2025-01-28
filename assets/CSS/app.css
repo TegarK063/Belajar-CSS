@@ -1,0 +1,10 @@
+/* Universal Sekector 
+Semua Element akan dikenai atau dibeikan style*/
+* {
+    background-color: blueviolet;
+}
+/* Element Selector */
+h1,h2,h3 {
+    color: white;
+    background-color: yellowgreen;
+}
